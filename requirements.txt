@@ -1,0 +1,8 @@
+langchain
+langchain-openai
+langchain-community
+langchain-text-splitters
+langsmith
+faiss-cpu
+sentence-transformers
+pypdf
