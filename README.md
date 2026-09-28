@@ -197,7 +197,7 @@ What about the humidity?
 ```text
 Multi-Tool-AI-Assistant/
 │
-├── Multi_Tool_AI_Assistant_MINI_PROJECT.ipynb
+├── Multi_Tool_AI_Assistant.ipynb
 ├── README.md
 ├── .gitignore
 └── .env.example
@@ -256,7 +256,7 @@ Create a `.env` file and add the required API credentials.
 Open:
 
 ```text
-Multi_Tool_AI_Assistant_MINI_PROJECT.ipynb
+Multi_Tool_AI_Assistant.ipynb
 ```
 
 in Google Colab or Jupyter Notebook.
